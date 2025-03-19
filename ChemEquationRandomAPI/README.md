@@ -35,7 +35,7 @@ serial_number | Number | 可选 | 化学方程式的编号，用于筛选特定�
 字段名 | 类型 | 描述
 ---|---|---
 content | String | 化学方程式的内容
-author | String | 方程式的作者
+author | String | 方程式的提交者
 serial_number | Number | 方程式的编号
 interpretation | String | 方程式的解释
 
