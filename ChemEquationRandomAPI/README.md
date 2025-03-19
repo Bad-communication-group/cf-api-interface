@@ -9,6 +9,9 @@
 ```
 https://your-domain.com/api/random
 ```
+## 示例地址
+
+[https://your-domain.com/api/random](https://api.lcy-ys.top/api/random)
 
 ## 请求方法
 
