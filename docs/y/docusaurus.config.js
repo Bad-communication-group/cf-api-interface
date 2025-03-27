@@ -43,7 +43,7 @@ const config = {
           // 请修改为你的仓库地址
           // 注释此行可移除"编辑此页面"链接
           editUrl:
-            'https://github.com/Lcyys666/cf-api-interface/tree/main/docs/y/docs/',
+            'https://github.com/Lcyys666/cf-api-interface/tree/main/docs/y/',
         },
         theme: {
           customCss: './src/css/custom.css',
