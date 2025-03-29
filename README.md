@@ -1,7 +1,7 @@
-https://apidocs.lcy-ys.top/
 # cf-api-interface 项目文档
-- 随机化学式[调用教程](https://github.com/Lcyys666/cf-api-interface/tree/main/ChemEquationRandomAPI))
-- 随机一言[调用教程](https://github.com/Lcyys666/cf-api-interface/tree/main/YiYanAPI))
+https://cfapidocs.lcy-ys.top/
+- 随机化学式[调用教程](https://cfapidocs.lcy-ys.top/docs/jk/hxsh)
+- 随机一言[调用教程](https://cfapidocs.lcy-ys.top/docs/jk/yiyan)
 
 ## 项目介绍
 
@@ -19,7 +19,7 @@ cf-api-interface 是一个提供随机化学式和随机一言的 API 接口服�
 
 ## 贡献指南
 
-欢迎为 cf-api-interface 贡献代码、文档或提出改进建议。请参考 [贡献指南](无) 获取更多信息。
+欢迎为 cf-api-interface 贡献代码、文档或提出改进建议。请参考 [贡献指南](https://cfapidocs.lcy-ys.top/docs/category/%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3) 获取更多信息。
 
 ## 许可证
 
