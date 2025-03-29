@@ -20,7 +20,7 @@ const config = {
 
   // GitHub Pages部署配置
   // 如果不使用GitHub Pages，可以忽略这些配置
-  organizationName: 'Lcyys666', // 通常是你的GitHub组织/用户名
+  organizationName: 'Bad-communication-group', // 通常是你的GitHub组织/用户名
   projectName: 'cf-api-interface', // 通常是你的仓库名称
 
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
           // 请修改为你的仓库地址
           // 注释此行可移除"编辑此页面"链接
           editUrl:
-            'https://github.com/Lcyys666/cf-api-interface/tree/main/docs/y/',
+            'https://github.com/Bad-communication-group/cf-api-interface/tree/main/docs/y/docs/',
         },
         theme: {
           customCss: './src/css/custom.css',
